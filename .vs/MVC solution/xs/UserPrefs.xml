@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{8D150353-2E9E-40C0-8E3B-446E2F6A1C5B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MVC/Program.cs" Line="10" Column="1" />
+      <File FileName="MVC/Views/Shared/_Layout.cshtml" Line="29" Column="91" />
+      <File FileName="MVC/appsettings.json" Line="14" Column="1" />
+      <File FileName="MVC/Data/ApplicationDbContext.cs" Line="9" Column="16" />
+      <File FileName="MVC/Controllers/ToDoController.cs" Line="7" Column="43" />
+      <File FileName="MVC/Models/ToDo.cs" Line="7" Column="16" />
+      <File FileName="MVC/Models/ErrorViewModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC solution" expanded="True">
+            <Node name="MVC" expanded="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="MySql.Data.EntityFrameworkCore" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
